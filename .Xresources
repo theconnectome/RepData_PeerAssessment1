@@ -23,15 +23,15 @@ Xft.lcdfilter: lcddefault
 
 
 ! URxvt Fonts ----------------------------------------------------------------
-URxvt*font:                 xft:berry
+URxvt*font:                 xft:berry:size=8
 ! DejaVuSansMono:regular:size=8
-URxvt*imFont:               xft:berry
+!URxvt*imFont:               xft:berry
 ! DejaVuSansMono:regular:size=8
-URxvt*boldFont:             xft:berry:bold
+!URxvt*boldFont:            
 ! DejaVuSansMono:bold:size=8
-URxvt*italicFont:           xft:berry:italic
+!URxvt*italicFont:           xft:berry:italic
 ! DejaVuSansMono-Oblique:size=8
-URxvt*boldItalicFont:       xft:berry:bolditalic
+!URxvt*boldItalicFont:       xft:berry:bolditalic
 !DejaVuSansMono-Oblique:bold:size=8
 
 

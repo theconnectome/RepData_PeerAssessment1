@@ -134,7 +134,7 @@ for_window [class="^.*"] border pixel 1
 # set default inner gaps (gaps between adjacent containers) or outer gaps (gaps between the edge of a 
 # screen and a container) for i3-gaps. 
 gaps inner 10
-gaps outer 100
+gaps outer 20
 
 # set smart gaps and smart borders for i3-gaps
 smart_gaps on
